@@ -1,0 +1,23 @@
+.banner{
+	background-image: url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1, 1, 1, .7);
+	color: white;
+}
+.slider h1{
+	font-size: 40px;
+	padding: 20px 0;
+	margin-top: 50px;
+}
+.slider p{
+	font-size: 20px;
+	padding-bottom: 20px;
+	margin: 0 30px 0 0;
+}
+.slider button{
+	margin-bottom: 100px;
+}
